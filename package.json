@@ -1,0 +1,10 @@
+{
+  "name": "document-generation",
+  "version": "1.0.0",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
